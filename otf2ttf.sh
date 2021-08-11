@@ -14,5 +14,3 @@ do
 	Generate($f:r+".ttf");
 	Quit(0);
 done
-
-#find . -type f -name "*.png" -exec convert {} -strip {} \;
